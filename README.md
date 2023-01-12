@@ -1,5 +1,5 @@
 # Broccoli
-分布式集群渲染，做了一个原型开发
+分布式集群渲染，基于 celery 和 redis 做了一个原型开发。
 
 ![](Broccoli/broccoli.svg)
 
